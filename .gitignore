@@ -1,0 +1,7 @@
+node_modules/
+.env
+__pycache__/
+target/
+.gradle/
+build/
+.dart_tool/
