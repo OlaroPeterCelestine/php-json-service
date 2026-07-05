@@ -1,4 +1,4 @@
-# Showcase PHP API
+# PHP JSON Service
 
 **PHP 8** JSON API — strict types, routing, production-ready patterns.
 
